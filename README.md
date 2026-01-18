@@ -1,12 +1,11 @@
 this first repositry.<br>
 <b>Author Amruta
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Attendance</title>
 </head>
 <body>
-
 <table border="1">
     <tr>
         <th>Name</th>
